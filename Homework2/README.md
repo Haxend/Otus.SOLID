@@ -1,1 +1,1 @@
-# OtusCProHomework
+# SOLID_Homework
